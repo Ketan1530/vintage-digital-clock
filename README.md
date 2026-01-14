@@ -26,4 +26,4 @@ The clock displays **real-time hours, minutes, AM/PM, and date** with smooth ani
 
 ## 📂 Project Structure
 
-live demo :- https://symphonious-torte-3c897f.netlify.app/
+live demo :- https://digital-time-clock.vercel.app/
